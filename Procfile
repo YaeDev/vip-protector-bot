@@ -1,1 +1,1 @@
-worker: glitch main.js
+worker: glitch MusicBot.js
