@@ -1,1 +1,1 @@
-worker: BotBind index.js
+worker: MusicBot.js
